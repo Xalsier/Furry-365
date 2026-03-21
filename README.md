@@ -9,7 +9,7 @@ Milestone Markers
 
 * 9 Facts - March 21, 2026
 * 99 Facts -
-* 999 Facts - (First Edition) -
+* 999 Facts (First Edition) -
 * 9,999 Facts (Second Edition) -
 * 99,999 Facts (Third Edition) -
 
