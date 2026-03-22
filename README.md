@@ -25,7 +25,6 @@ Website Markers
 
 Categories
 
-* 🎉 Notable Birthdays 
 * 📚 Published Books (Non-Fiction)
 * 📖 Fiction Books And Stories
 * 🧳 Physical Conventions
